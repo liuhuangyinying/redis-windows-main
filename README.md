@@ -1,6 +1,5 @@
-Another Redis Desktop Manager (Another-RDM)
-https://github.com/qishibo/AnotherRedisDesktopManager?utm_source=chatgpt.com
 
+[Another Redis Desktop Manager (Another-RDM)](https://github.com/qishibo/AnotherRedisDesktopManager))
 界面清爽，中文支持好，Windows 下很受欢迎
 
 
