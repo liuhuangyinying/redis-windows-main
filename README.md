@@ -1,3 +1,9 @@
+Another Redis Desktop Manager (Another-RDM)
+https://github.com/qishibo/AnotherRedisDesktopManager?utm_source=chatgpt.com
+
+界面清爽，中文支持好，Windows 下很受欢迎
+
+
 ### [English](https://github.com/redis-windows/redis-windows/blob/main/README.md) | [简体中文](https://github.com/redis-windows/redis-windows/blob/main/README.zh_CN.md)
 
 # Redis Windows Version
